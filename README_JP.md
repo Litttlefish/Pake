@@ -311,6 +311,13 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
 		</tr>
 		<tr>
             <td align="center">
+                <a href="https://github.com/Litttlefish">
+                    <img src="https://avatars.githubusercontent.com/u/38809254?v=4" width="90;" alt="Litttlefish"/>
+                    <br />
+                    <sub><b>Litttle_fish</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/mattbajorek">
                     <img src="https://avatars.githubusercontent.com/u/17235301?v=4" width="90;" alt="mattbajorek"/>
                     <br />
@@ -352,6 +359,8 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Yue Yang</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/lkieryan">
                     <img src="https://avatars.githubusercontent.com/u/187804088?v=4" width="90;" alt="lkieryan"/>
@@ -359,8 +368,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Kieran</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/exposir">
                     <img src="https://avatars.githubusercontent.com/u/33340988?v=4" width="90;" alt="exposir"/>
@@ -403,6 +410,8 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Ayaka Neko</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/turkyden">
                     <img src="https://avatars.githubusercontent.com/u/24560160?v=4" width="90;" alt="turkyden"/>
@@ -410,8 +419,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Dengju Deng</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/fvn-elmy">
                     <img src="https://avatars.githubusercontent.com/u/71275745?v=4" width="90;" alt="fvn-elmy"/>
@@ -438,13 +445,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <img src="https://avatars.githubusercontent.com/u/708277?v=4" width="90;" alt="droid-Q"/>
                     <br />
                     <sub><b>Jiaqi Gu</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Litttlefish">
-                    <img src="https://avatars.githubusercontent.com/u/38809254?v=4" width="90;" alt="Litttlefish"/>
-                    <br />
-                    <sub><b>Litttle_fish</b></sub>
                 </a>
             </td>
             <td align="center">
