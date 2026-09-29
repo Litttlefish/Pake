@@ -171,7 +171,7 @@ jobs:
         timeout-minutes: 25
         shell: pwsh
         run: |
-          $args = "${{ inputs.url }}", "--name", "${{ inputs.name }}"
+          $args = "${{ inputs.url }}", "--name", "${{ inputs.name }}", "--hide-on-close", "true", "--show-system-tray", "--enable-drag-drop" "--wasm"
 
           if ("${{ inputs.icon }}" -ne "") {
             $args += "--icon", "${{ inputs.icon }}"
